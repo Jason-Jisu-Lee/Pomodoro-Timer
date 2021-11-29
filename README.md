@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-[App Demo](https://pomodoro-timer-one-iota.vercel.app/)
+[App Demo](https://pomodoro-timer-liard.vercel.app/)
 
 ## Instructions
 To use this application, set a break time and a focus time and hit play. The timer will automatically run through the focus time, alert you with an alarm, and start the break timer. This process will continue until the user presses the stop button.
