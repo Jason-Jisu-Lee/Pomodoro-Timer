@@ -1,6 +1,10 @@
 # Pomodoro Timer
 
 [App Demo](https://pomodoro-timer-liard.vercel.app/)
+## Summary
+The 'Pomodoro Technique' is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Cirillo used as a university student.
+
+This timer application employs the Pomodoro technique in which the user can change interval and break lengths.
 
 ## Instructions
 To use this application, set a break time and a focus time and hit play. The timer will automatically run through the focus time, alert you with an alarm, and start the break timer. This process will continue until the user presses the stop button.
