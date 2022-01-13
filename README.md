@@ -17,15 +17,16 @@ This project demonstrates the ability to work with rendering and state managemen
 - Use of Bootstrap Framework to design, and create the progress bar
 - Implement start, break, and pause logic through buttons and event handlers
 
-## Technologies:
+## Technologies & Tools:
 - React Library
-- Bootstrap/CSS
+- Bootstrap/CSS <br />
 
-## Tools used
+*React provides a unique ability to partially render a page without the need to reload which is essential since the timer needs to re-render periodically without user initiation. Bootstrap CSS Framework allows the developer to focus on the development of functionality over stylization, without compromising on style.*
+<br />
 - VSCode
 - GitHub
-I used the React Library because of its unique ability to partially render a page without the need to reload which is essential since the timer needs to re-render periodically without user initiation. I also utilized Bootstrap CSS Framework which allowed me to focus on the development of functionality over stylization, without compromising on style.
-
+<br />
+<br />
 Thank you for checking out my app :) <br />
 — Jason Lee<br />
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jason-jisu-lee)
